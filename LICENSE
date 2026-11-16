@@ -1,24 +1,24 @@
-Free Use License
+MIT License
 
 Copyright (c) 2026 HigherEdDev
 
-Permission is hereby granted, free of charge, to any individual or entity obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for any non-commercial purpose, subject to the following condition:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-The following are NOT permitted:
-
-Selling, sublicensing, or otherwise commercially exploiting the Software, in whole or in part.
-Distributing or redistributing copies of the Software to any third party.
-Publishing, sharing, or making available any modified version of the Software.
-Using the Software to generate revenue or profit, directly or indirectly.
-
-Exception to distribution restriction: The Software may be shared by Blackboard system administrators or their designated IT staff with other Blackboard system administrators at other educational institutions for non-commercial instructional use.
-
-If any provision of this license is breached, the rights granted hereunder terminate automatically.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 Third-Party Notice
-
 This software is an independent product and is not affiliated with, endorsed by, sponsored by, or in any way officially connected to Blackboard Inc. "Blackboard" and related marks are registered trademarks of Blackboard Inc. This software is designed to interoperate with the Blackboard learning management system but is not a product of, nor maintained by, Blackboard Inc. No warranty is made or implied regarding compatibility with any version of Blackboard.
